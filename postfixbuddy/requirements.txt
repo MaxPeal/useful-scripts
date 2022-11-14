@@ -1,3 +1,4 @@
 pylint==1.8.1
 pycodestyle==2.5.0
 pytest==3.2.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
